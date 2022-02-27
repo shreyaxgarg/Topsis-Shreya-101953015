@@ -7,7 +7,7 @@ This is a python package for rank calculation using topsis.
 **Step 2:** Import the package
 ```tp =import("Topsis-Shreya-101953015"))```
 **Step 3:** Run the package in command prompt in the same format as given in the following example:
-```tp.topsis('101953015-data.csv',"1,1,1,1,1","+,-,+,-,+",'101953015-result.csv')
+```tp.topsis('101953015-data.csv',"1,1,1,1,1","+,-,+,-,+",'101953015-result.csv')```
 
 _Result gets stored in 101953015-result.csv_
 
